@@ -1,0 +1,34 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.dytroc.enticingdemocracy.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BlockMixin",
+    "CreeperEntityMixin",
+    "EntityMixin",
+    "GameRulesMixin",
+    "HostileEntityMixin",
+    "ItemEntityMixin",
+    "ItemMixin",
+    "LivingEntityMixin",
+    "MerchantEntityMixin",
+    "MobEntityMixin",
+    "MouseMixin",
+    "PiglinBrainMixin",
+    "PlayerEntityMixin",
+    "ProjectileEntityMixin",
+    "SpawnGroupMixin"
+  ],
+  "client": [
+    "GameRenderingMixin",
+    "InGameHUDMixin",
+    "KeyboardInputMixin",
+    "MinecraftClientMixin",
+    "OptionsScreenMixin",
+    "SoundSystemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

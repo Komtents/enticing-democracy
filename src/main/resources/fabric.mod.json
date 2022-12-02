@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "enticing_democracy",
+  "version": "${version}",
+  "name": "Enticing Democracy",
+  "description": "Democracy, a very fair system that takes the majority's opinion into account, has made the world a better place. However, sometimes the majority... can be somewhat tempted... by an enticing choice that can bring unpleasant results... Defeat the ender dragon before your viewers defeats you!",
+  "authors": [],
+  "contact": {},
+  "license": "GPL v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "server": [
+      {
+        "adapter": "kotlin",
+        "value": "io.github.dytroc.enticingdemocracy.server.EnticingDemocracyServer"
+      }
+    ],
+    "client": [
+      {
+        "adapter": "kotlin",
+        "value": "io.github.dytroc.enticingdemocracy.client.EnticingDemocracyClient"
+      }
+    ],
+    "main": [
+      {
+        "adapter": "kotlin",
+        "value": "io.github.dytroc.enticingdemocracy.EnticingDemocracy"
+      }
+    ]
+  },
+  "mixins": [
+    "enticing-democracy.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "1.19.2",
+    "fabric-language-kotlin": ">=1.8.5+kotlin.1.7.20"
+  }
+}

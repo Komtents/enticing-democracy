@@ -1,0 +1,164 @@
+{
+  "ui.poll.remaining_time": "%d초 후에 투표가 끝납니다:",
+  "ui.poll.client_not_connected": "현재 트위치 채팅이랑 연결되어있지 않습니다.",
+  "ui.vote_medium_settings.title": "투표 방법 설정",
+  "ui.vote_medium_settings.twitch": "트위치 채팅 연동",
+
+  "ui.input.twitch_token": "트위치 OAuth 토큰",
+  "ui.input.twitch_channel": "트위치 채널명",
+
+  "ui.button.open_vote_medium_settings": "투표 방법 설정",
+  "ui.button.apply_changes": "적용",
+
+  "event.jumping_incapability.display": "점프 불가",
+  "event.jumping_incapability.description": "지금 몸무게로 뛰기에 너무 무거우시네요! 네? 트럭과 맞먹는 몸무게시라고요?",
+
+  "event.upside_down_screen.display": "화면 뒤집기",
+  "event.upside_down_screen.description": "모든 게 거꾸로 보여요!",
+
+  "event.shuffle_inventory.display": "인벤토리 섞기",
+  "event.shuffle_inventory.description": "인벤토리에 있는 아이템들이 다 섞여버렸어요! 똑같으시다고요? 운이 엄청 좋으시네요!",
+
+  "event.drop_all.display": "아이템 모두 버리기",
+  "event.drop_all.description": "대체 무슨 짓을 하신 거죠? 인벤토리에 있는 아이템들을 모두 던지다니!",
+
+  "event.spawn_tnt.display": "폭탄이다!",
+  "event.spawn_tnt.description": "폭탄이 설치되었다는 정보를 입수했습니다! 당장 도망치세요!",
+
+  "event.remove_items.display": "인벤토리 아이템 도박",
+  "event.remove_items.description": "인벤토리에 있는 아이템들이 각각 50% 확률로 사라질 거예요!",
+
+  "event.send_to_the_sky.display": "경치 죽여주네",
+  "event.send_to_the_sky.description": "이야... 이렇게 높은 곳에 올라오니 죽여주는 경치를 볼 수 있네요! 떨어지고 있는 거 같다고요? 무시하세요!",
+
+  "event.item_picking_incapability.display": "아이템 줍기 불가",
+  "event.item_picking_incapability.description": "어머... 혹시 아이템 줍는 방법을 까먹으신건 아니죠?",
+
+  "event.burns_in_daylight.display": "태양을 피하고 싶어서",
+  "event.burns_in_daylight.description": "태양이 너무나도 강력해 당신을 태워버릴 수도 있겠어요!",
+
+  "event.weird_controls.display": "술에 취한다",
+  "event.weird_controls.description": "술도 마시지 못하면서 취한 것처럼 제대로 걷질 못하시다니... 대단해요!",
+
+  "event.no_meat.display": "채식주의",
+  "event.no_meat.description": "락토-오보 채식주의자가 되겠다고 결심하시다니! 대단해요!",
+
+  "event.hearing_impairment.display": "플레이어는 원래 귀가 없어요",
+  "event.hearing_impairment.description": "이분 왜 말귀를 못 알아들으시나요? / 귀가 없어서 소리를 들을 수 없습니다.",
+
+  "event.fast.display": "단식",
+  "event.fast.description": "입맛이 떨어지게 된 당신은 한동안 단식하기로 결정합니다. 음. 아무리 봐도 그 결정이 매우 극단적이네요.",
+
+  "event.insomnia.display": "불면증",
+  "event.insomnia.description": "어째선지는 몰라도 잠을 못 자게 되었네요.",
+
+  "event.intense_mouse_shaking.display": "지진",
+  "event.intense_mouse_shaking.description": "\u00A7l[긴급재난문자]\n\u00A7fXX월 XX일 XX:XX 규모 X.X의 지진 발생\n화면 흔들림 주의.",
+
+  "event.ink_overlay.display": "얼굴에 먹물 뿌리기",
+  "event.ink_overlay.description": "어떤 녀석이 당신께 아주 신선한 먹물을 뿌렸네요. 그 녀석을 찾아서 밥을 부숴버리고 싶으시겠지만, 먹물부터 어떻게 좀 하셔야 할 것 같습니다!",
+
+  "event.no_trade.display": "불매",
+  "event.no_trade.description": "피글린들과 주민들의 실체를 알게 된 당신은 불매를 하기로 결심합니다...",
+
+  "event.higher_spawn_cap.display": "몬스터 스폰율 10배 (1).mp4",
+  "event.higher_spawn_cap.description": "몬스터의 스폰율이 10배가 되었다는 소식을 받았습니다! 몬스터의 수가 많아졌기 때문에 몬스터들을 조심하세요.",
+
+  "event.creeper_duplication.display": "크리퍼 분열",
+  "event.creeper_duplication.description": "크리퍼가 터질 때마다 25% 확률로 그 자리에서 크리퍼 두 마리가 새로 나옵니다!",
+
+  "event.hunger.display": "아 배고파...",
+  "event.hunger.description": "아무것도 안 드신 것처럼 배고프신가 보네요. \"거기 선생님! 한끼줍쇼!\"",
+
+  "event.no_natural_regen.display": "수동 회복",
+  "event.no_natural_regen.description": "갑작스러운 유전자 변형으로 인하여 플레이어들이 자동 재생을 못 하게 됐습니다! 하지만 이는 임시적인 현상인 것으로 보입니다.",
+
+  "event.tnt_run.display": "개미지옥",
+  "event.tnt_run.description": "추억을 되살려봅시다! 밟는 블록이 곧 사라지니 발조심하세요!",
+
+  "event.damage_return.display": "자업자득",
+  "event.damage_return.description": "자신이 한 짓의 결과는 자신에게 다시 돌아오므로 자신이 다른 생명을 때릴 경우엔 자신이 폭력의 대상이 될 것이오.",
+
+  "event.moving_incapability.display": "스트리머 멈춰!",
+  "event.moving_incapability.description": "방송의 진행이 너무 원활하자, 시청자들이 멈추라고 소리칩니다. 그러자 스트리머가 움직이는 행위를 멈추기 시작합니다.",
+
+  "event.inverted_controls.display": "조작 반전",
+  "event.inverted_controls.description": "왜 제대로 못 움직이세요? 거참 마치 조작키가 반대로 되어있는 거 같이 움직이시네?",
+
+  "event.weakness.display": "피해 저하",
+  "event.weakness.description": "너무 강력하신 이유로 게임의 밸런스를 맞추기 위해서 나약함을 지급하겠습니다!",
+
+  "event.slow_break_speed.display": "피로",
+  "event.slow_break_speed.description": "솔직히 방송 이렇게 오래 하셨는데 피로가 쌓일 리가... 없잖아요! 채굴 피로 좀 줄게요!",
+
+
+  "event.hide_choice_names.display": "선택지 내용 숨기기",
+  "event.hide_choice_names.description": "개발자가 미처 확인 못한 버그가 있는지 한동안 투표 선택지들을 볼 수 없게 됐네요! 미안해요!",
+
+  "event.jump_high.display": "슬라임",
+  "event.jump_high.description": "슬라임처럼 엄청 높게 뜁시다!",
+
+  "event.item_magnet.display": "자석",
+  "event.item_magnet.description": "근처에 있는 아이템들이 모두 인벤토리에 들어옵니다.",
+
+  "event.remove_random_event.display": "랜덤으로 이벤트 지우기",
+  "event.remove_random_event.description": "적용되어있는 이벤트 중에 무작위로 1개를 골라서 그 이벤트를 지우겠습니다!",
+
+  "event.extinction.display": "나는 아싸",
+  "event.extinction.description": "아싸인 당신을 발견한 주변에 있는 동물들과 몬스터들이 당신에게서부터 도망쳤어요! 아무래도 엄청나게 강력한 아싸 기운이 느껴졌나 봐요.",
+
+  "event.heal_or_damage.display": "힐 또는 딜",
+  "event.heal_or_damage.description": "인생은 확률! 50% 확률로 힐 또는 딜을 드리겠습니다!",
+
+  "event.clear_potion_effects.display": "정화",
+  "event.clear_potion_effects.description": "당신이 갖고 있는 모든 상태 이상들을 정화하겠습니다!",
+
+  "event.random_event.display": "랜덤 이벤트",
+  "event.random_event.description": "랜덤 이벤트를 발동합니다.",
+
+  "event.hit_all_close_entities.display": "가까운 엔티티들 모두 때리기",
+  "event.hit_all_close_entities.description": "가까운 곳에 있는 모든 엔티티들을 모조리 다 때렸습니다! 어? 때려선 안 되는 존재를 때렸다고요? 저런, 유감이네요.",
+
+  "event.slippery_blocks.display": "으아, 미끄러진다!",
+  "event.slippery_blocks.description": "어? 원래 블록들이 이리 미끄러웠나요?",
+
+  "event.explosive_arrows.display": "폭탄 화살",
+  "event.explosive_arrows.description": "이제부터 화살들도 폭발합니다! 이게 약이 될지... 독이 될지... 상황에 따라서 다르겠죠..?",
+
+
+  "event.heal.display": "치유",
+  "event.heal.description": "체력이 낮으신 것 같아서 한번 치유해드렸습니다!",
+
+  "event.full_hunger.display": "아 배불러",
+  "event.full_hunger.description": "이야... 아무것도 안 먹었지만 엄청 배부르시네요!",
+
+  "event.diamonds_for_you.display": "다이아몬드는 서비스입니다",
+  "event.diamonds_for_you.description": "그만큼 고생하시는데 다이아몬드 8개 정도는 줄 수 있긴 하죠!",
+
+  "event.fire_resistance.display": "화염 저항 지급",
+  "event.fire_resistance.description": "화상 입으시면 안 되니까 화염 저항을 지급해드릴게요!",
+
+  "event.fast_mining.display": "성급함 지급",
+  "event.fast_mining.description": "답답한 건 싫으니까 블록 빨리 캐실 수 있도록 성급함을 지급해드릴게요!",
+
+  "event.not_targeted.display": "존재감 제로",
+  "event.not_targeted.description": "당신의 존재감이 하도 없는지라 앞으로 몹들이 당신을 무시할 겁니다!",
+
+  "event.strength.display": "힘 버프 지급",
+  "event.strength.description": "피해 증가! 이제 몹들을 훨씬 쉽게 잡을 수 있겠네요!",
+
+  "event.totem_of_undying.display": "죽음을 초월하는 힘",
+  "event.totem_of_undying.description": "죽는 게 두려우시다고요? 그럼 불사의 토템을 이용해 죽지 않도록 하세요!",
+
+  "event.no_fall_damage.display": "고양이",
+  "event.no_fall_damage.description": "고양이라는 이름을 보고서 고양이를 소환하는 이벤트라 생각하셨나요? 그게 아니라 \"고양이\"처럼 낙하 피해가 없애는 이벤트입니다!",
+
+  "event.saturation.display": "포화 지급",
+  "event.saturation.description": "엄청 배고프신가봐요? 포화를 지급해드릴게요!",
+
+  "event.vampire.display": "흡혈",
+  "event.vampire.description": "으... 흡혈귀는... 특정 대상의 피를 맛볼수록... 그만큼 치유되지...",
+
+  "event.high_attack_speed.display": "1.8 때처럼",
+  "event.high_attack_speed.description": "1.8 PVP가 그립다고요? 그럼, 그 때의 환경과 비슷하게 하면 되지 않을까요?"
+}
