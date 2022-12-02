@@ -1,7 +1,7 @@
-# 민주주의과 유혹 (Enticing Democracy)
+# 민주주의와 유혹 (Enticing Democracy)
 [![이 모드가 쓰인 컨텐츠](https://img.youtube.com/vi/YTkPdx5yq-I/maxresdefault.jpg)](https://youtu.be/YTkPdx5yq-I)
 
-"민주주의과 유혹"은 트위치 시청자가 투표로 스트리머의 월드에 영향을 주는 마인크래프트 1.19.2 Fabric 모드입니다.
+"민주주의와 유혹"은 트위치 시청자가 투표로 스트리머의 월드에 영향을 주는 마인크래프트 1.19.2 Fabric 모드입니다.
 
 ## 세팅 방법
 1. 최소 [Fabric Loader 0.14.10-1.19.2](https://fabricmc.net/use/installer/)를 설치한다.
